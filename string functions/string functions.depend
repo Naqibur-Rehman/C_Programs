@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589447142 source:c:\users\naqib\onedrive\documents\c program\string functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

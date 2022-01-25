@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589535301 source:c:\users\naqib\onedrive\documents\c program\pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589537640 source:c:\users\naqib\onedrive\documents\c program\pointers\pointersarithmatic.c
+	<stdio.h>
+	<stdlib.h>
+
